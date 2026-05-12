@@ -1,4 +1,4 @@
-# 
+# Enhance your trading with cross-margin trading bot top Bot - API-integration and slippage-control, the #1 cross-margin trading bot. Includes API-integration and slippage-control
 
 
 
